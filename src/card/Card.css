@@ -1,0 +1,17 @@
+.card{
+    display: flex;
+    justify-content: space-between;
+    max-width: 20em;
+    border: 0.2em solid lime;
+    border-radius: 4em;
+    margin-bottom: 1em;
+}
+img{
+    width: 10em;
+    height: 10em;
+    margin: 1em;
+}
+p{
+    font-size: 0.8em;
+    margin: 0.5em;
+}

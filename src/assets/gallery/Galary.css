@@ -1,0 +1,7 @@
+.gallery_header {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: wheat;
+    color: black;
+    padding: 1em;
+}
